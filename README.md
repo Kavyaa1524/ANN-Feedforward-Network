@@ -1,6 +1,7 @@
 # ANN-Feedforward-Network
 Feedforward Neural network for digit recognition
-Team members
+
+# Team members
 
 Kavya
 Deeksha y shettigar
