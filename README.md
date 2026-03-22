@@ -3,10 +3,10 @@ Feedforward Neural network for digit recognition
 
 # Team members
 
-**Kavya**
-**Deeksha y shettigar**
-**Ankitha k**
-**lenisha joseph dias***
+* **Kavya**
+* **Deeksha y shettigar**
+* **Ankitha k**
+* **lenisha joseph dias***
 
 # Project Description
 
@@ -14,10 +14,10 @@ This project demonstrates the implementation of a Feedforward Neural Network for
 
 # Technologies used
 
-**Python**
-**NumpPy**
-**Scilit-learn**
-**Google colab**
+* **Python**
+* **NumpPy**
+* **Scilit-learn**
+* **Google colab**
 
 # Files included
 feedforward_network.ipynb : Implementation of Feedforward Neural Network
