@@ -6,7 +6,7 @@ Feedforward Neural network for digit recognition
 * **Kavya**
 * **Deeksha y shettigar**
 * **Ankitha k**
-* **lenisha joseph dias***
+* **lenisha joseph dias**
 
 # Project Description
 
